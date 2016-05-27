@@ -1,0 +1,11 @@
+[submodule "git-modes"]
+	path = git-modes
+	url = https://github.com/magit/git-modes.git
+	branch = master
+        update = rebase
+        
+[submodule "magit"]
+	path = magit
+	url = https://github.com/magit/magit.git
+	branch = master
+        update = rebase
