@@ -9,3 +9,6 @@
 	url = https://github.com/magit/magit.git
 	branch = master
         update = rebase
+[submodule "slime-repl-ansi-color"]
+	path = slime-repl-ansi-color
+	url = https://github.com/enriquefernandez/slime-repl-ansi-color.git
